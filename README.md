@@ -51,6 +51,14 @@ This dashboard helps transform raw sales data into meaningful business insights.
 - Data Visualization
 - Business Insights
 
+  
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard Screenshot.png"
+       alt="Sales Performance Dashboard"
+       width="100%">
+</p>
 ## 👨‍💻 Author
 **Sola Nanda Kumar**
 
